@@ -9,7 +9,6 @@ const Composite = Matter.Composite;
 
 let engine;
 let world;
-var plank;
 var ground;
 var higherground;
 var con;
